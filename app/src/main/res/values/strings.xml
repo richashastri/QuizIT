@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lists</string>
+    <string-array name="pokeperson">
+        <item>Pikachu</item>
+        <item>Charizard</item>
+        <item>Mewto</item>
+        <item>Vulpix</item>
+        <item>Squirtle</item>
+    </string-array>
+</resources>
